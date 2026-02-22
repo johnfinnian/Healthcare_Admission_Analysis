@@ -201,6 +201,11 @@ DIVIDE(
 
 ---
 
+# Project Access
+Click [here](/Healthcare_Admission_Analysis/Healthcare_Admission_Analysis.pbix) to download the project as pbix file and open with Power BI.
+
+---
+
 # 🚀 Future Improvements
 
 * Implement 30-day readmission logic
