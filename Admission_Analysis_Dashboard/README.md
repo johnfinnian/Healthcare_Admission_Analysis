@@ -202,7 +202,7 @@ DIVIDE(
 ---
 
 # Project Access
-Click [here](Admission_Analysis_Dashboard/Project_File/) to download the project as pbix file and open with Power BI.
+Click [here](./Project_File/) to download the project as pbix file and open with Power BI.
 
 ---
 
